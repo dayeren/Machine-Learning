@@ -22,13 +22,14 @@
 矩阵论 | 暂无 | [矩阵论](https://www.amazon.cn/%E7%9F%A9%E9%98%B5%E8%AE%BA-%E6%88%B4%E5%8D%8E/dp/B00116BRO0/ref=sr_1_1?s=books&ie=UTF8&qid=1478614198&sr=1-1&keywords=%E6%88%B4%E5%8D%8E%EF%BC%8C+%E7%9F%A9%E9%98%B5%E8%AE%BA) | 暂无 
 [凸优化1](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| Stanford | [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | [链接](http://stanford.edu/class/ee364a/index.html)
 [凸优化2](https://www.youtube.com/watch?v=U3lJAObbMFI&list=PL3940DD956CDF0622&index=20)| Stanford | 暂无 |  [链接](http://stanford.edu/class/ee364b/)
+[统计学习入门](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| Stanford | [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | [链接](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+[机器学习基石](https://www.coursera.org/instructor/htlin)| NTU | [Learning from Data](https://www.amazon.com/gp/product/1600490069) | [链接](https://www.csie.ntu.edu.tw/~htlin/course/mlfound16fall/)
+[机器学习技法](https://www.coursera.org/instructor/htlin)| NTU | 暂无 | [链接](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)
+[机器学习(matlab)](http://open.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html)| Stanford |暂无| [链接](http://cs229.stanford.edu/materials.html)
 
 [Python程序语言设计](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| Stanford | 5 hours/week | a
 [Matlab程序语言设计](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| Stanford | 5 hours/week | a
-[统计学习入门](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| Stanford | 5 hours/week | a
-[机器学习基石](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| Stanford | 5 hours/week | a
-[机器学习技法](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| Stanford | 5 hours/week | a
-[机器学习](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| Stanford | 5 hours/week | a
+
 
 
 ##<h2 id="learning_route">学习路线</h2>
