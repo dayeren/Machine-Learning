@@ -31,6 +31,8 @@ Matlab程序语言设计| 暂无 | 暂无 | 暂无
 
 ##<h2 id="learning_route">学习路线</h2>
 ###<h3 id="math_basic">数学基础</h3>
+课程 | 机构 | 参考书 | Notes等其他资料
+:-- | :--: | :--: | :--:
 [线性代数](http://open.163.com/special/opencourse/daishu.html)| MIT | [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) |  [链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)
 [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
 [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  MIT | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
@@ -42,10 +44,14 @@ Matlab程序语言设计| 暂无 | 暂无 | 暂无
 [凸优化2](https://www.youtube.com/watch?v=U3lJAObbMFI&list=PL3940DD956CDF0622&index=20)| Stanford | 暂无 |  [链接](http://stanford.edu/class/ee364b/)
 
 ###<h3 id="programming_basic">程序语言能力</h3>
+课程 | 机构 | 参考书 | Notes等其他资料
+:-- | :--: | :--: | :--:
 Python程序语言设计| 暂无 | 暂无 | 暂无
 Matlab程序语言设计| 暂无 | 暂无 | 暂无
 
 ###<h3 id="special_learning_1">机器学习课程入门</h3>
+课程 | 机构 | 参考书 | Notes等其他资料
+:-- | :--: | :--: | :--:
 [统计学习入门](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| Stanford | [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | [链接](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 [机器学习基石](https://www.coursera.org/instructor/htlin)| NTU | [Learning from Data](https://www.amazon.com/gp/product/1600490069) | [链接](https://www.csie.ntu.edu.tw/~htlin/course/mlfound16fall/)
 [机器学习技法](https://www.coursera.org/instructor/htlin)| NTU | 暂无 | [链接](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)
