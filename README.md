@@ -5,8 +5,8 @@
 -   [课程列表](#curriculum)
 -   [学习路线](#learning_route)
     -  [数学基础](#math_basic)
-    -  [程序语言能力](#programming_basic)
-    -  [机器学习课程入门](#special_learning_1)
+    -  [程序语言能力](#programming_basic) 
+    -  [机器学习课程入门](#special_learning_1)
 -   [机器学习专项领域学习](#special_learning_2)
 
 ##<h2 id="curriculum">课程列表</h2>
