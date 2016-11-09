@@ -4,11 +4,12 @@
    
 - [课程列表](#curriculum)
 - [推荐学习路线](#learning_route)
-  - [数学基础初级](#math_basic)
-  - [程序语言能力](#programming_basic) 
-  - [机器学习课程初级](#machine_learning_basic)
-  - [数学基础中级](#math_median)
-  - [机器学习课程中级](#machine_learning_median)
+ - [数学基础初级](#math_basic)
+ - [程序语言能力](#programming_basic) 
+ - [机器学习课程初级](#machine_learning_basic)
+ - [数学基础中级](#math_median)
+ - [机器学习课程中级](#machine_learning_median)
+ 
 - [机器学习专项领域学习](#special_learning)
 
 ##<h2 id="curriculum">课程列表</h2>
