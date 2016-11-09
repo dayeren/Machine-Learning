@@ -33,6 +33,7 @@ Matlab程序语言设计| 暂无 | 暂无 | 暂无
 
 ##<h2 id="learning_route">推荐学习路线</h2>
 ###<h3 id="math_basic">数学基础初级</h3>
+
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [线性代数](http://open.163.com/special/opencourse/daishu.html)| MIT | [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) |  [链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)
@@ -41,6 +42,7 @@ Matlab程序语言设计| 暂无 | 暂无 | 暂无
 [统计入门](http://open.163.com/movie/2011/6/6/0/M82IC6GQU_M83J9IK60.html) | 可汗学院 | 暂无 | 暂无
 概率论入门: [链接1](http://mooc.guokr.com/course/461/%E6%A9%9F%E7%8E%87/),[链接2](https://www.youtube.com/watch?v=GwSEguqJj6U&index=1&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)| NTU | 暂无 | 暂无
 [概率与统计](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc)| MIT | [Introduction to Probability](https://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/tutorials/)
+
 
 ###<h3 id="programming_basic">程序语言能力</h3>
 考虑到机器学习的核心是里面的数学原理和算法思想，程序语言目前主要是帮助大家较好的完成课后作业以及实现自己的一些idea，此处我们仅仅给出推荐的参考学习链接，大家掌握一些常用的模块即可，即完成参考学习链接部分的内容即可，推荐书籍比较经典，但不做要求。
@@ -51,25 +53,31 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 Matlab程序语言设计| 暂无 | 暂无 
 R程序语言设计| 暂无 | 暂无 
 
+
 ###<h3 id="machine_learning_basic">机器学习课程初级</h3>
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [统计学习入门](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| Stanford | [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | [链接](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 [机器学习入门](https://www.coursera.org/learn/machine-learning) | Coursera | 暂无 | [链接](https://www.coursera.org/learn/machine-learning)
 
-###<h3 id="math_median">数学基础中级上</h3>
+
+###<h3 id="math_median">数学基础中级</h3>
+
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 矩阵论 | 暂无 | [矩阵论](https://www.amazon.cn/%E7%9F%A9%E9%98%B5%E8%AE%BA-%E6%88%B4%E5%8D%8E/dp/B00116BRO0/ref=sr_1_1?s=books&ie=UTF8&qid=1478614198&sr=1-1&keywords=%E6%88%B4%E5%8D%8E%EF%BC%8C+%E7%9F%A9%E9%98%B5%E8%AE%BA) | 暂无 
 [凸优化1](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| Stanford | [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | [链接](http://stanford.edu/class/ee364a/index.html)
 [凸优化2](https://www.youtube.com/watch?v=U3lJAObbMFI&list=PL3940DD956CDF0622&index=20)| Stanford | 暂无 |  [链接](http://stanford.edu/class/ee364b/)
 
+
 ###<h3 id="machine_learning_median">机器学习课程中级</h3>
+
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [机器学习基石](https://www.coursera.org/instructor/htlin)| NTU | [Learning from Data](https://www.amazon.com/gp/product/1600490069) | [链接](https://www.csie.ntu.edu.tw/~htlin/course/mlfound16fall/)
 [机器学习技法](https://www.coursera.org/instructor/htlin)| NTU | 暂无 | [链接](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)
 [机器学习](http://open.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html)| Stanford |暂无| [链接](http://cs229.stanford.edu/materials.html)
+
 
 ###<h3 id="special_learning">机器学习专项领域学习</h3>
 如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的机器学习基础了，可以较为顺利的进入下面某一专项领域进行较为深入研究。
