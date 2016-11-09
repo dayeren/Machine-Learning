@@ -79,5 +79,5 @@ R程序语言设计| 暂无 | 暂无
 [机器学习](http://open.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html)| Stanford |暂无| [链接](http://cs229.stanford.edu/materials.html)
 
 
-###<h3 id="special_learning">机器学习专项领域学习</h3>
+##<h3 id="special_learning">机器学习专项领域学习</h3>
 如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的机器学习基础了，可以较为顺利的进入下面某一专项领域进行较为深入研究。
