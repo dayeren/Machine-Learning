@@ -84,7 +84,7 @@ R程序语言设计| 暂无 | 暂无
 [机器学习](http://open.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html)| Stanford |暂无| [链接](http://cs229.stanford.edu/materials.html)
 
 
-##<h2 id="booklist">推荐书籍列表</h2>
+##<h2 id="booklists">推荐书籍列表</h2>
    以下推荐的书籍都是公认的机器学习领域界的好书，建议**一般难度的书籍至少详细阅读一本，建议看两本**，而较难的书籍不做任何要求，大家可以在学有余力时细细品味经典。
 
 书名 | 难度
@@ -96,7 +96,7 @@ R程序语言设计| 暂无 | 暂无
 [Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=pd_sim_14_1?ie=UTF8&dpID=61f0EXfMRvL&dpSrc=sims&preST=_AC_UL160_SR118%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难(偏贝叶斯)
 [The Elements of Statistical Learning](https://www.amazon.com/The-Elements-Statistical-Learning-Prediction/dp/0387848576/ref=pd_sim_14_2?ie=UTF8&dpID=41LeU3HcBdL&dpSrc=sims&preST=_AC_UL160_SR103%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难
 
-##<h3 id="special_learning">推荐书籍列表</h3>
+##<h3 id="special_learning">机器学习专项领域学习</h3>
 如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的机器学习基础了，可以较为顺利的进入下面某一专项领域进行较为深入研究。
 
 - [深度学习](https://github.com/dayeren/Deep-Learning)
