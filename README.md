@@ -10,6 +10,7 @@
  - [数学基础中级](#math_median)
  - [机器学习课程中级](#machine_learning_median)
  
+- [推荐书籍列表](#booklists)
 - [机器学习专项领域学习](#special_learning)
 
 ##<h2 id="preparation">前言</h2>
@@ -40,7 +41,7 @@ Matlab程序语言设计| 暂无 | 暂无 | 暂无
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-[线性代数](http://open.163.com/special/opencourse/daishu.html)| MIT | [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) |  [链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)
+[线性代数](http://open.163.com/special/opencourse/daishu.html)| MIT | [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) |  [链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)s
 [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
 [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  MIT | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 [统计入门](http://open.163.com/movie/2011/6/6/0/M82IC6GQU_M83J9IK60.html) | 可汗学院 | 暂无 | 暂无
@@ -83,7 +84,19 @@ R程序语言设计| 暂无 | 暂无
 [机器学习](http://open.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html)| Stanford |暂无| [链接](http://cs229.stanford.edu/materials.html)
 
 
-##<h3 id="special_learning">机器学习专项领域学习</h3>
+##<h2 id="booklist">推荐书籍列表</h2>
+   以下推荐的书籍都是公认的机器学习领域界的好书，建议**一般难度的书籍至少详细阅读一本，建议看两本**，而较难的书籍不做任何要求，大家可以在学有余力时细细品味经典。
+
+书名 | 难度
+:-- | :--: 
+[统计学习方法](https://www.amazon.cn/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95-%E6%9D%8E%E8%88%AA/dp/B007TSFMTA) | 一般
+ [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | 一般
+[Machine Learning](https://www.amazon.com/gp/product/0071154671?ie=UTF8&tag=jefork-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0071154671) | 一般
+[Learning from Data](https://www.amazon.com/gp/product/1600490069) | 一般，[配套讲义](https://work.caltech.edu/telecourse.html)
+[Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=pd_sim_14_1?ie=UTF8&dpID=61f0EXfMRvL&dpSrc=sims&preST=_AC_UL160_SR118%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难(偏贝叶斯)
+[The Elements of Statistical Learning](https://www.amazon.com/The-Elements-Statistical-Learning-Prediction/dp/0387848576/ref=pd_sim_14_2?ie=UTF8&dpID=41LeU3HcBdL&dpSrc=sims&preST=_AC_UL160_SR103%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难
+
+##<h3 id="special_learning">推荐书籍列表</h3>
 如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的机器学习基础了，可以较为顺利的进入下面某一专项领域进行较为深入研究。
 
 - [深度学习](https://github.com/dayeren/Deep-Learning)
