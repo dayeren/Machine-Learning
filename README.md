@@ -100,6 +100,7 @@ R程序语言设计| 暂无 | 暂无
 如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的机器学习基础了，可以较为顺利的进入下面某一专项领域进行较为深入研究。
 
 - [深度学习](https://github.com/dayeren/Deep-Learning)
+- [图模型](https://github.com/dayeren/Probabilistic-graphical-models)
 - 其他(尚未完善)
 
 
