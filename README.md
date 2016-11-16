@@ -98,6 +98,7 @@ R程序语言设计| 暂无 | 暂无
 [Learning from Data](https://www.amazon.com/gp/product/1600490069) | 一般，[配套讲义](https://work.caltech.edu/telecourse.html)
 [Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=pd_sim_14_1?ie=UTF8&dpID=61f0EXfMRvL&dpSrc=sims&preST=_AC_UL160_SR118%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难(偏贝叶斯)
 [The Elements of Statistical Learning](https://www.amazon.com/The-Elements-Statistical-Learning-Prediction/dp/0387848576/ref=pd_sim_14_2?ie=UTF8&dpID=41LeU3HcBdL&dpSrc=sims&preST=_AC_UL160_SR103%2C160_&refRID=119X50P5F0DFA339S9DR) | 较难
+[Understanding Machine Learning:From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) | 较难
 
 ##<h3 id="special_learning">机器学习专项领域学习</h3>
 如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的机器学习基础了，可以较为顺利的进入下面某一专项领域进行较为深入研究。
