@@ -105,6 +105,7 @@ R程序语言设计| 暂无 | 暂无
 
 - [深度学习](https://github.com/dayeren/Deep-Learning)
 - [图模型](https://github.com/dayeren/Probabilistic-graphical-models)
+- [强化学习](https://github.com/dayeren/Reinforcement-Learning)
 - 其他(尚未完善)
 
 
