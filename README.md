@@ -101,8 +101,19 @@ R程序语言设计| 暂无 | 暂无
 [Understanding Machine Learning:From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) | 较难
 
 ##<h3 id="special_learning">机器学习专项领域学习</h3>
-如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的机器学习基础了，可以较为顺利的进入下面某一专项领域进行较为深入研究。
+如果您已经完成了上述的所有科目，恭喜您已经拥有十分扎实的机器学习基础了，已经是一名合格的机器学习成员了，可以较为顺利的进入下面某一专项领域进行较为深入研究,因为并不是所有的专项领域都有对应的课程或者书籍等学习资料，所以此处我们仅列举一些我们知道的专项领域的学习资料，当然这些领域不能涵盖所有，还有很多领域没有整理（希望大家一起完善），同时大家也可以去下面列举的高级会议期刊上去寻找自己感兴趣的话题进行学习研究。
 
+###<h3 id="special_learning_data">领域会议期刊</h3>
+- [NIPS](https://nips.cc/）
+- [ICML](http://icml.cc/)
+- [AAAI](http://www.aaai.org/)
+- [IJCAI](http://www.ijcai.org/)
+- [KDD](http://www.kdd.org/)
+- [ICDM](http://www.cs.uvm.edu/~icdm/)
+- [COLT](http://www.learningtheory.org/)
+- 其他(尚未完善)
+
+###<h3 id="special_learning_data">一些专项领域资料</h3>
 - [深度学习](https://github.com/dayeren/Deep-Learning)
 - [图模型](https://github.com/dayeren/Probabilistic-graphical-models)
 - [强化学习](https://github.com/dayeren/Reinforcement-Learning)
